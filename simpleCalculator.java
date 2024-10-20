@@ -8,7 +8,7 @@ public class simpleCalculator {
         //creating jframe
         JFrame frame = new JFrame("Simple Calculator");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(300, 300);
+        frame.setSize(300, 500);
         frame.setLayout(null);
 
         //text field
@@ -196,24 +196,5 @@ public class simpleCalculator {
         });
 
         
-
-
-
-
-
-
-
-
-
-
-    
-       
-
-
-
-
-
-
-        
-    }
+}
 }
