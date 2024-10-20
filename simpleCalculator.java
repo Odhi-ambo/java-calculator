@@ -15,7 +15,13 @@ public class simpleCalculator {
         javax.swing.JTextField textField = new javax.swing.JTextField();
         textField.setBounds(50, 50, 150, 20);
         frame.add(textField);
+
+        //buttons
+        javax.swing.JButton button1 = new javax.swing.JButton("1");
+        button1.setBounds(50, 100, 50, 50);
+        frame.add(button1);
         
+
 
         
     }
