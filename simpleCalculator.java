@@ -11,6 +11,12 @@ public class simpleCalculator {
         frame.setSize(300, 300);
         frame.setLayout(null);
 
+        //text field
+        javax.swing.JTextField textField = new javax.swing.JTextField();
+        textField.setBounds(50, 50, 150, 20);
+        frame.add(textField);
+        
+
         
     }
 }
